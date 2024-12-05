@@ -1,0 +1,6 @@
+/* For consistent image size */
+.gallery-img {
+    height: 300px;
+    object-fit: cover; /* Ensures the image fills the container while maintaining its aspect ratio */
+    width: 100%; /* Ensures images span the full width of their container */
+  }
